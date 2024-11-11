@@ -1,4 +1,4 @@
-![Screenshot 2024-11-11 104311](https://github.com/user-attachments/assets/b4216fbb-a57a-4547-9d83-b60b5e0c7354)![Screenshot 2024-11-11 104909](https://github.com/user-attachments/assets/b7cb1c41-a5eb-4141-82e0-f11d28ab7d20)# 32Bit_ALU Simulation
+### 32Bit_ALU Simulation
 
 # Aim: 
 
