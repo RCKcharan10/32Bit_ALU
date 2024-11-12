@@ -242,24 +242,6 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 11:Simulation Waveform Window
 
+## Result: 
 
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
+The 32 bit ALU supporting four logical and four arithmetic operations,use case statement and if statement for ALU behavioral modeling has been done and verified.
